@@ -63,16 +63,13 @@ MS in Computer Science · *Expected December 2027*
 - **Platform & infrastructure:** the layer everyone depends on and nobody notices until it fails
 - **Observability:** getting a system to explain itself
 - **ML systems:** what it takes to serve and scale models, not just train them
-- **Software supply chain security:** trusting code you didn't write
 
 ## ❓ Questions I Keep Coming Back To
 
-- What does a system actually agree on when the network is lying to it?
-- How do you know a distributed system is correct, not just that it passed the tests?
-- How much can you learn about a machine just by watching it?
-- Should compute care *when* it runs, not just *where*?
-- How do you trust a package you installed five seconds ago?
-- What should sit between an application and a model?
+- Why does a system that works fine on one machine fall apart on three?
+- What's the real cause hiding behind the error message?
+- How much can you learn about a system just by watching it?
+- What does "reliable" actually mean when everything underneath it can fail?
 
 ---
 
@@ -84,8 +81,6 @@ MS in Computer Science · *Expected December 2027*
 | 🏢 [**TenantFlow**](https://github.com/nikhilshugar/tenantflow-postgresql) | Multi-tenant SaaS data model | PostgreSQL |
 | 🧮 [**K-Means from Scratch**](https://github.com/nikhilshugar/CS5100---kmeans_capstone) | Reproducing MacQueen's (1967) K-Means | Python |
 | 📈 [**Portfol.io**](https://github.com/nikhilshugar/Portfol.io-Portfolio-Tracking-System) | Portfolio tracking system | HTML · SQL |
-
-> 🔒 More distributed-systems work is in progress. I'll share it when it's ready.
 
 ---
 
@@ -112,11 +107,6 @@ MS in Computer Science · *Expected December 2027*
 
 ---
 
-## 📚 Currently Learning
-
-- 🧠 **Math for machine learning**, from linear algebra up, working toward transformers and distributed ML systems
-- 🐧 **Linux internals**: shell, file descriptors, processes, and networking from the ground up
-
 ## 🧪 How I Work
 
 - Build it first, read the paper second, then build it again.
@@ -125,14 +115,13 @@ MS in Computer Science · *Expected December 2027*
 
 ## 💬 Ask Me About
 
-- Why consensus is harder than it looks on a whiteboard
+- Why distributed systems are harder than they look on a whiteboard
 - Supporting enterprise applications running on AWS
 - Going from electronics engineering to infrastructure
 
 ## 🌱 Beyond the Code
 
-- 🚀 **NU Launch Labs (Fall 2026):** member of an innovation project team
-- 🏋️ Usually at the gym, or reading way more about lifting shoes than anyone should
+🏋️ Usually at the gym, or reading way more about lifting shoes than anyone should.
 
 ---
 
@@ -142,7 +131,7 @@ Software engineering **co-op / internship** roles in **platform, infrastructure,
 
 ## 📫 Let's Connect
 
-<a href="mailto:nikhil.s.hugar@gmail.com"><img src="https://img.shields.io/badge/Email-nikhil.s.hugar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:nikhilhugar45@gmail.com"><img src="https://img.shields.io/badge/Email-nikhilhugar45%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/nikhil-shreeshail-hugar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
 
 <br>
